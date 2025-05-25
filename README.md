@@ -12,16 +12,6 @@
 
 ---
 
-<h2>🔭 Now</h2>
-<ul>
-  <li>Working on RAG pipelines and real-time NLP apps</li>
-  <li>Leading product development at <strong>CamitAi</strong></li>
-  <li>Mentoring interns through 3-phase AI training program</li>
-  <li>Designing creative AI portfolios for career growth</li>
-</ul>
-
----
-
 </div>
 
 You have finally discovered my Github profile. <br>
@@ -38,6 +28,17 @@ Please feel free to clone projects and raise issues if you think something could
   </p>
 </div>
 
+---
+
+<h2>🔭 Now</h2>
+<ul>
+  <li>Working on RAG pipelines and real-time NLP apps</li>
+  <li>Leading product development at <strong>CamitAi</strong></li>
+  <li>Mentoring interns through 3-phase AI training program</li>
+  <li>Designing creative AI portfolios for career growth</li>
+</ul>
+
+
 <h2>💻 Tech Stack</h2>
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -49,6 +50,15 @@ Please feel free to clone projects and raise issues if you think something could
 
 ![Momen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Momen-Walied&show_icons=true&theme=radical)
 
+---
+
+## ☕ Support Me
+
+If you find my work valuable, consider buying me a coffee:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-yellow?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/momen2410)
+
+---
 
 <i>Follow me:</i><br>
 
