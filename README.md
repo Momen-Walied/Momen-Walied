@@ -12,13 +12,14 @@
 
 ---
 
-## ⚡ Quick Facts / TL;DR
-
-NLP Engineer & Deep Learning Specialist
-Founder & CEO of CamitAi
-Building Searcher Room App
-Fine-tuning LLMs with Unsloth, Hugging Face
-Based in Cairo, Egypt
+h2>⚡ Quick Facts / TL;DR</h2>
+<ul>
+  <li>🧠 NLP Engineer & Deep Learning Specialist</li>
+  <li>🚀 Founder & CEO of <strong>CamitAi</strong></li>
+  <li>📱 Building <em>PlantsGuard</em> App</li>
+  <li>🛠 Fine-tuning LLMs with Unsloth, Hugging Face</li>
+  <li>🌍 Based in Cairo, Egypt</li>
+</ul>
 
 ---
 
