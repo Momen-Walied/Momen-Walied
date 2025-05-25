@@ -6,6 +6,10 @@
   <img src="https://github.com/Momen2410/img/blob/main/WelcometoMomensGitHub1-ezgif.com-resize.gif" width="500"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+Engineer+%7C+NLP+Specialist;Founder+of+CamitAi;Tech+is+my+playground+%F0%9F%A4%96" />
+</p>
+
 </div>
 
 You have finally discovered my Github profile. <br>
@@ -32,8 +36,6 @@ Please feel free to clone projects and raise issues if you think something could
 <h2>📊 GitHub Stats</h2>
 
 ![Momen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Momen-Walied&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Momen-Walied&layout=compact&theme=radical)
-
 
 
 <i>Follow me:</i><br>
