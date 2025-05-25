@@ -16,7 +16,7 @@
 
 - NLP Engineer & Deep Learning Specialist
 - Founder & CEO of CamitAi
-- Building <Searcher Room> App
+- Building Searcher Room App
 - 🛠 Fine-tuning LLMs with Unsloth, Hugging Face
 - 🌍 Based in Cairo, Egypt
 
