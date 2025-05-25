@@ -12,12 +12,13 @@
 
 ---
 
-## 🔭 Now
-
-- Working on RAG pipelines and real-time NLP apps  
-- Leading product development at CamitAi  
-- Mentoring interns through 3-phase AI training program  
-- Designing creative AI portfolios for career growth  
+<h2>🔭 Now</h2>
+<ul>
+  <li>Working on RAG pipelines and real-time NLP apps</li>
+  <li>Leading product development at <strong>CamitAi</strong></li>
+  <li>Mentoring interns through 3-phase AI training program</li>
+  <li>Designing creative AI portfolios for career growth</li>
+</ul>
 
 ---
 
