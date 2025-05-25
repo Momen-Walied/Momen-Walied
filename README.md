@@ -12,6 +12,16 @@
 
 ---
 
+## ⚡ Quick Facts / TL;DR
+
+- 🧠 NLP Engineer & Deep Learning Specialist
+- 🚀 Founder & CEO of CamitAi
+- 📱 Building PlantsGuard App
+- 🛠 Fine-tuning LLMs with Unsloth, Hugging Face
+- 🌍 Based in Cairo, Egypt
+
+---
+
 </div>
 
 You have finally discovered my Github profile. <br>
