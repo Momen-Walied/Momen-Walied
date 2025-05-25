@@ -10,6 +10,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+Engineer+%7C+NLP+Specialist;Founder+of+CamitAi;Tech+is+my+playground+%F0%9F%A4%96" />
 </p>
 
+---
+
 </div>
 
 You have finally discovered my Github profile. <br>
