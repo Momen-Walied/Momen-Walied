@@ -21,10 +21,16 @@ Please feel free to clone projects and raise issues if you think something could
 <div style="direction: ltr; text-align: left;">
   <h2><strong>Professional Experience</strong></h2>
   <p>
-    Experienced AI & NLP Engineer with a robust background in Natural Language Processing (NLP). Proficient in classical machine learning and deep learning   
-    techniques such as RNN, LSTM, CNN, GRU, and Transformers. Proven expertise in developing and deploying NLP solutions, including Retrieval-Augmented Generation 
-    (RAG) models, to address complex language understanding and generation tasks. Skilled in managing end-to-end NLP projects from data preprocessing to model 
-    evaluation and deployment. Passionate about leveraging AI technologies to drive innovation and enhance user experiences.
+    An AI Engineer, Product Manager, and Entrepreneur with a deep passion for building real-world solutions that blend artificial intelligence, business strategy, and human-centric design. With hands-on experience leading AI teams and startups, I’ve spent the last few years diving into applied AI across industries like Environmental Health & Safety (EHS), business consulting, and education — always with a focus on speed, innovation, and impact.
+Throughout these roles, I led cross-functional teams, integrated with external platforms, secured partnerships, and built 4 MVPs that brought real value to users. I’m results-driven, always pushing forward with clarity, agility, and purpose — whether that means delivering a safety system that flags helmet violations or an AI tool that accelerates startup ideation.
+I believe in lean product thinking, in empowering people, and in turning complexity into clarity — not just for machines, but for teams and customers too. I love the rush of early-stage building, the responsibility of leadership, and the endless potential AI brings to everyday human challenges.
+I excel in:
+•	Leading AI-driven product development from 0 to 1.
+•	Building and managing technical teams in agile environments.
+•	Merging NLP, CV, and multimodal AI into real-world systems.
+•	Startup strategy, and partnerships.
+•	Creating technical workshops to empower businesses and teams.
+
   </p>
 </div>
 
