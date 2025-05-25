@@ -12,13 +12,12 @@
 
 ---
 
-## ⚡ Quick Facts / TL;DR
+## 🔭 Now
 
-- NLP Engineer & Deep Learning Specialist
-- Founder & CEO of CamitAi
-- Building PlantsGuard App
-- Fine-tuning LLMs with Unsloth, Hugging Face
-- Based in Cairo, Egypt
+- Working on RAG pipelines and real-time NLP apps  
+- Leading product development at CamitAi  
+- Mentoring interns through 3-phase AI training program  
+- Designing creative AI portfolios for career growth  
 
 ---
 
