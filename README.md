@@ -2,7 +2,9 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/Momen2410/img/blob/main/WelcometoMomensGitHub1-ezgif.com-resize.gif" alt="Welcome!" width="300"/>
+<p align="center">
+  <img src="https://github.com/Momen2410/img/blob/main/WelcometoMomensGitHub1-ezgif.com-resize.gif" width="500"/>
+</p>
 
 </div>
 
