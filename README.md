@@ -21,8 +21,8 @@ Please feel free to clone projects and raise issues if you think something could
     evaluation and deployment. Passionate about leveraging AI technologies to drive innovation and enhance user experiences.
   </p>
 </div>
-## 💻 Tech Stack
 
+<h2>💻 Tech Stack</h2>
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
