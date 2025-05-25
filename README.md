@@ -21,15 +21,40 @@ Please feel free to clone projects and raise issues if you think something could
 <div style="direction: ltr; text-align: left;">
   <h2><strong>Professional Experience</strong></h2>
   <p>
-    An AI Engineer, Product Manager, and Entrepreneur with a deep passion for building real-world solutions that blend artificial intelligence, business strategy, and human-centric design. With hands-on experience leading AI teams and startups, I’ve spent the last few years diving into applied AI across industries like Environmental Health & Safety (EHS), business consulting, and education — always with a focus on speed, innovation, and impact.
-Throughout these roles, I led cross-functional teams, integrated with external platforms, secured partnerships, and built 4 MVPs that brought real value to users. I’m results-driven, always pushing forward with clarity, agility, and purpose — whether that means delivering a safety system that flags helmet violations or an AI tool that accelerates startup ideation.
-I believe in lean product thinking, in empowering people, and in turning complexity into clarity — not just for machines, but for teams and customers too. I love the rush of early-stage building, the responsibility of leadership, and the endless potential AI brings to everyday human challenges.
-I excel in:
-•	Leading AI-driven product development from 0 to 1.
-•	Building and managing technical teams in agile environments.
-•	Merging NLP, CV, and multimodal AI into real-world systems.
-•	Startup strategy, and partnerships.
-•	Creating technical workshops to empower businesses and teams.
+    <p>
+  An <strong>AI Engineer</strong>, <strong>Product Manager</strong>, and <strong>Entrepreneur</strong> with a deep passion for building real-world solutions that blend artificial intelligence, business strategy, and human-centric design.
+</p>
+
+<p>
+  With hands-on experience leading AI teams and startups, I’ve spent the last few years diving into applied AI across industries like <strong>Environmental Health & Safety (EHS)</strong>, <strong>business consulting</strong>, and <strong>education</strong> — always with a focus on <strong>speed</strong>, <strong>innovation</strong>, and <strong>impact</strong>.
+</p>
+
+<p>
+  Throughout these roles, I:
+</p>
+<ul>
+  <li>Led cross-functional teams</li>
+  <li>Integrated with external platforms</li>
+  <li>Secured partnerships</li>
+  <li>Built <strong>4 MVPs</strong> that brought real value to users</li>
+</ul>
+
+<p>
+  I’m <strong>results-driven</strong>, always pushing forward with clarity, agility, and purpose — whether that means delivering a <em>safety system</em> that flags helmet violations or an <em>AI tool</em> that accelerates startup ideation.
+</p>
+
+<p>
+  I believe in <strong>lean product thinking</strong>, in <strong>empowering people</strong>, and in turning <strong>complexity into clarity</strong> — not just for machines, but for teams and customers too. I love the <strong>rush of early-stage building</strong>, the <strong>responsibility of leadership</strong>, and the <strong>endless potential AI brings</strong> to everyday human challenges.
+</p>
+
+<h3>✅ I excel in:</h3>
+<ul>
+  <li>Leading AI-driven product development from 0 to 1</li>
+  <li>Building and managing technical teams in agile environments</li>
+  <li>Merging NLP, CV, and multimodal AI into real-world systems</li>
+  <li>Startup strategy and partnerships</li>
+  <li>Creating technical workshops to empower businesses and teams</li>
+</ul>
 
   </p>
 </div>
